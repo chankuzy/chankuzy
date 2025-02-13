@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @chankuzy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Chankuzy!
+## 🚀 Web Developer | Ethical Hacker | Free Coding Teacher  
 
-<!---
-chankuzy/chankuzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Teaching **Web Development for FREE**  
+- 🌱 Currently learning **Machine Learning & AR**  
+- 🎯 Goal: **Dominate Online Presence**  
+
+### 📚 Learn with Me
+- 🌍 Facebook: [Facebook.com/chankuzy](https://www.facebook.com/chankuzy/)
+- 💼 LinkedIn: [linkedin.com/in/chankuzy](#)
+- 🐦 Twitter: [twitter.com/chankuzy](#)
+
+📩 **Let’s connect!**
